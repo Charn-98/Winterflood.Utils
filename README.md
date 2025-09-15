@@ -9,3 +9,4 @@ What improvements would I make with more time?
 - Add a basic UI, perhaps with Blazor for simplicity 
 - Add a BookingService Interface. In a real-world each type of booking would likely have it's own implmentation of the service.
 - Persist the data to a database
+- Add customer entity (or others)
