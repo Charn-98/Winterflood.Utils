@@ -1,6 +1,6 @@
 ﻿using System.Text.Json.Serialization;
 
-namespace Waterflood.Bookings.API.Models
+namespace Winterflood.Bookings.API.Models
 {
     public class Booking
     {

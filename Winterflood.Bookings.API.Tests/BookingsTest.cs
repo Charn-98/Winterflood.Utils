@@ -1,5 +1,5 @@
-using Waterflood.Bookings.API.Models;
-using Waterflood.Bookings.API.Services;
+using Winterflood.Bookings.API.Models;
+using Winterflood.Bookings.API.Services;
 
 namespace Winterflood.Bookings.API.Tests
 {

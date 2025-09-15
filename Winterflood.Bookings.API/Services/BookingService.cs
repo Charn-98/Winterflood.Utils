@@ -1,6 +1,6 @@
-﻿using Waterflood.Bookings.API.Models;
+﻿using Winterflood.Bookings.API.Models;
 
-namespace Waterflood.Bookings.API.Services
+namespace Winterflood.Bookings.API.Services
 {
     /// <summary>
     /// Service for managing bookings. Add normal CRUD operations here. 
