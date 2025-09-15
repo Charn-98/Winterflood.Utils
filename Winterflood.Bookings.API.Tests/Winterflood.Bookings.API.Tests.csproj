@@ -17,7 +17,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Waterflood.Bookings.API\Waterflood.Bookings.API.csproj" />
+    <ProjectReference Include="..\Winterflood.Bookings.API\Winterflood.Bookings.API.csproj" />
   </ItemGroup>
 
   <ItemGroup>

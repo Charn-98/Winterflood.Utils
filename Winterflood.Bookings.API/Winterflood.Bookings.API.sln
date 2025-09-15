@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.14.36301.6 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Waterflood.Bookings.API", "Waterflood.Bookings.API.csproj", "{42F13DEF-6CD0-493B-8389-11F07EA1FC18}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Winterflood.Bookings.API", "Winterflood.Bookings.API.csproj", "{42F13DEF-6CD0-493B-8389-11F07EA1FC18}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Winterflood.Bookings.API.Tests", "..\Winterflood.Bookings.API.Tests\Winterflood.Bookings.API.Tests.csproj", "{65F02177-E790-4972-ADAA-68BD53E3A4BF}"
 EndProject
