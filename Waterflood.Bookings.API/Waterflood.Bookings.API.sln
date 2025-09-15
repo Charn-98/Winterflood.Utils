@@ -5,6 +5,8 @@ VisualStudioVersion = 17.14.36301.6 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Waterflood.Bookings.API", "Waterflood.Bookings.API.csproj", "{42F13DEF-6CD0-493B-8389-11F07EA1FC18}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Winterflood.Bookings.API.Tests", "..\Winterflood.Bookings.API.Tests\Winterflood.Bookings.API.Tests.csproj", "{65F02177-E790-4972-ADAA-68BD53E3A4BF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{42F13DEF-6CD0-493B-8389-11F07EA1FC18}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{42F13DEF-6CD0-493B-8389-11F07EA1FC18}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{42F13DEF-6CD0-493B-8389-11F07EA1FC18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65F02177-E790-4972-ADAA-68BD53E3A4BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65F02177-E790-4972-ADAA-68BD53E3A4BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65F02177-E790-4972-ADAA-68BD53E3A4BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65F02177-E790-4972-ADAA-68BD53E3A4BF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
