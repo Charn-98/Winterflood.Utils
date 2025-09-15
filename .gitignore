@@ -1,0 +1,41 @@
+#Build outputs
+bin/
+obj/
+
+#User-specific files
+*.user
+*.userosscache
+*.suo
+*.ntvs*
+*.njsproj
+*.vs/
+
+#Visual Studio
+.vs/
+
+#Rider IDE
+.idea/
+
+#Temporary files
+*.log
+*.tmp
+*.temp
+
+#NuGet packages (if using local cache)
+*.nupkg
+packages/
+
+#Publish folder
+publish/
+
+#OS-specific files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+#Test results
+TestResults/
+*.trx
+
+#Rider / ReSharper
+_ReSharper*/
